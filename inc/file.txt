@@ -1,0 +1,15 @@
+{
+    "kanal 1": [
+        {
+            "naslov": "film 1",
+            "kategorija": "film",
+            "tip": "akcija",
+            "trajanje": "223",
+            "datum": "24.06.2015",
+            "zacetek_ura": "12:15",
+            "konec_ura": "12:30",
+            "opis": "fdfdfsd",
+            "slika_path": "http://localhost/wp-plugin/wordpress/wp-content/uploads/2015/06/p317718_b_v7_aa27.jpg"
+        }
+    ]
+}
